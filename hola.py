@@ -1,3 +1,1 @@
 print("Hola")
-
-print("Hola")
